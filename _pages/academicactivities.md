@@ -13,13 +13,13 @@ author_profile: true
 
 ## Volunteer Experiences
 
-**ACL'23 Volunteer (Onsite)**   `Toronto,Canada`
+ACL'23 Volunteer (Onsite)   `Toronto,Canada`
 
-**EMNLP'23 Volunteer(On-site)**   `Abu Dhaibi, UAE`
+EMNLP'23 Volunteer(On-site)   `Abu Dhaibi, UAE`
 
-**RecSys'22 Volunteer (Online)**   `Seattle, US`
+RecSys'22 Volunteer (Online)   `Seattle, US`
 
 
 ## Academic Services
 
-**Invited Reviewer for EACL'23 Student Research Workshop**
+Invited Reviewer for EACL'23 Student Research Workshop
