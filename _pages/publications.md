@@ -13,15 +13,16 @@ See also my [Google Scholar Profile](https://scholar.google.com/citations?user=-
 ---
 
 ### 2023
-**SCITAB: A Challenging Benchmark for Compositional Reasoning and Claim Verification on Scientific Tables** `ArXiv2023`
+**SCITAB: A Challenging Benchmark for Compositional Reasoning and Claim Verification on Scientific Tables** `ArXiv'23`
 **Xinyuan Lu**, Liangming Pan, Qian Liu, Preslav Nakov, Min-Yen Kan   
-[[paper](https://arxiv.org/pdf/2305.12744.pdf](https://arxiv.org/pdf/2305.13186.pdf)]
+[[paper](https://arxiv.org/pdf/2305.12744.pdf](https://arxiv.org/pdf/2305.13186.pdf)] [[data](https://github.com/XinyuanLu00/SciTab)]
 
-**Fact-Checking Complex Claims with Program-Guided Reasoning** `ACL 2023`    
+
+**Fact-Checking Complex Claims with Program-Guided Reasoning** `ACL'23`    
 Liangming Pan, Xiaobao Wu, **Xinyuan Lu**, Anh Tuan Luu, William Yang Wang, Min-Yen Kan, Preslav Nakov   
-[[paper](https://arxiv.org/pdf/2305.12744.pdf)] 
+[[paper](https://arxiv.org/pdf/2305.12744.pdf)] [[code](https://github.com/teacherpeterpan/ProgramFC)] 
    
-**Improving Recommendation Systems with User Personality Inferred from Product Reviews**  `IRS Workshop@WSDM2023`     
+**Improving Recommendation Systems with User Personality Inferred from Product Reviews**  `IRS Workshop@WSDM'23`     
 **Xinyuan Lu**, Min-Yen Kan   
-[[paper]([https://aclanthology.org/2020.acl-main.135.pdf](https://arxiv.org/pdf/2303.05039.pdf)https://arxiv.org/pdf/2303.05039.pdf)] 
+[[paper]([https://aclanthology.org/2020.acl-main.135.pdf)] [[slides](https://speakerdeck.com/wingnus/improving-recommendation-systems-with-user-personality-inferred-from-product-reviews)]
       
