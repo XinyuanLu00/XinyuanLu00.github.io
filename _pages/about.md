@@ -17,5 +17,5 @@ My primary research interests lie in Natural Language Processing, especially Sci
 I've also been interested in the psychological aspects of Recommendation Systems, especially analyzing the effects of personality in the current recommendation systems. 
 
 
-I'm welcome in any form of discussion or collaboration! Feel free to contact me by 
-`luxinyuan [at] u.nus.edu`
+I'm welcome in any form of discussion or collaboration! 
+Feel free to contact me by `luxinyuan [at] u.nus.edu`
