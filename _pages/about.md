@@ -18,4 +18,5 @@ I've also been interested in the psychological aspects of Recommendation Systems
 
 
 I'm welcome in any form of discussion or collaboration! 
+
 My email is `luxinyuan [at] u.nus.edu`

@@ -15,7 +15,7 @@ author_profile: true
 
 ACL'23 Volunteer (On-site)   `Toronto,Canada`
 
-EMNLP'23 Volunteer (On-site)   `Abu Dhaibi, UAE`
+EMNLP'23 Volunteer (On-site)   `Abu Dhabi, UAE`
 
 RecSys'22 Volunteer (Online)   `Seattle, USA`
 
