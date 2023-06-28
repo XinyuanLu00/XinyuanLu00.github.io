@@ -25,5 +25,5 @@ Liangming Pan, Xiaobao Wu, **Xinyuan Lu**, Anh Tuan Luu, William Yang Wang, Min-
    
 **Improving Recommendation Systems with User Personality Inferred from Product Reviews**  `IRS Workshop@WSDM'23`     
 **Xinyuan Lu**, Min-Yen Kan   
-[[paper](https://aclanthology.org/2020.acl-main.135.pdf)] [[slides](https://speakerdeck.com/wingnus/improving-recommendation-systems-with-user-personality-inferred-from-product-reviews)]
+[[paper](https://arxiv.org/pdf/2303.05039.pdf)] [[slides](https://speakerdeck.com/wingnus/improving-recommendation-systems-with-user-personality-inferred-from-product-reviews)]
       
