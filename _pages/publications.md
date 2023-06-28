@@ -16,7 +16,7 @@ See also my [Google Scholar Profile](https://scholar.google.com/citations?user=-
 **SCITAB: A Challenging Benchmark for Compositional Reasoning and Claim Verification on Scientific Tables** `ArXiv'23`
 
 **Xinyuan Lu**, Liangming Pan, Qian Liu, Preslav Nakov, Min-Yen Kan   
-[[paper](https://arxiv.org/pdf/2305.12744.pdf)] [[data](https://github.com/XinyuanLu00/SciTab)]
+[[paper](https://arxiv.org/pdf/2305.13186.pdf)] [[data](https://github.com/XinyuanLu00/SciTab)]
 
 
 **Fact-Checking Complex Claims with Program-Guided Reasoning** `ACL'23`    
