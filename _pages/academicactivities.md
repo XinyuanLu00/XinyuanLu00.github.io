@@ -13,7 +13,7 @@ author_profile: true
 
 ## Volunteer Experiences
 
-ACL'23 Volunteer (On-site)   `Toronto,Canada`
+ACL'23 Volunteer (On-site)   `Toronto, Canada`
 
 EMNLP'23 Volunteer (On-site)   `Abu Dhabi, UAE`
 
