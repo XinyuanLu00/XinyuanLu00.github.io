@@ -13,6 +13,8 @@ author_profile: true
 
 ## Volunteer Experiences
 
+RecSys'23 Volunteer (On-site)   `Singapore`
+
 ACL'23 Volunteer (On-site)   `Toronto, Canada`
 
 EMNLP'23 Volunteer (On-site)   `Abu Dhabi, UAE`
