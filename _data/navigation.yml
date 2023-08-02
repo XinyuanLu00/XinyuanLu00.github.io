@@ -4,5 +4,8 @@ main:
     url: /publications/
 
   - title: "Academic Activities"
-    url: /academicactivities/    
+    url: /academicactivities/   
+
+  - title: "Blog Post"
+    url: /blog/   
 
