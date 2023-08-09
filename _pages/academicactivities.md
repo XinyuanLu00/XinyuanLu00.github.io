@@ -24,4 +24,6 @@ RecSys'22 Volunteer (Online)   `Seattle, USA`
 
 ## Academic Services
 
+Invited Reviewer for EMNLP'23
+
 Invited Reviewer for EACL'23 Student Research Workshop
