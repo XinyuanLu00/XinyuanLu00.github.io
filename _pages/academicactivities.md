@@ -27,3 +27,10 @@ ACL'23 Volunteer (On-site)   `Toronto, Canada`
 EMNLP'23 Volunteer (On-site)   `Abu Dhabi, UAE`
 
 RecSys'22 Volunteer (Online)   `Seattle, USA`
+
+
+## Talks
+
+"Psychology-based Recommendation Systems", March 2022
+
+[WING NUS Recommendation Seminar](https://wing-nus.github.io/ir-seminar/)
