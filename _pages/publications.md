@@ -13,6 +13,10 @@ See also my [Google Scholar Profile](https://scholar.google.com/citations?user=-
 ---
 
 ### 2023
+**QACHECK: A Demonstration System for Question-Guided Multi-Hop Fact-Checking** `EMNLP Demo'23`
+
+Liangming Pan, **Xinyuan Lu**, Min-Yen Kan, Preslav Nakov 
+
 **SCITAB: A Challenging Benchmark for Compositional Reasoning and Claim Verification on Scientific Tables** `ArXiv'23`
 
 **Xinyuan Lu**, Liangming Pan, Qian Liu, Preslav Nakov, Min-Yen Kan   
