@@ -24,7 +24,7 @@ RecSys'23 Volunteer (On-site)   `Singapore`
 
 ACL'23 Volunteer (On-site)   `Toronto, Canada`
 
-EMNLP'23 Volunteer (On-site)   `Abu Dhabi, UAE`
+EMNLP'22 Volunteer (On-site)   `Abu Dhabi, UAE`
 
 RecSys'22 Volunteer (Online)   `Seattle, USA`
 
