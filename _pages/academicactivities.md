@@ -31,9 +31,8 @@ RecSys'22 Volunteer  `Seattle, USA`
 
 ### Teaching Activities
 
-**Teaching Assistant, CS4248 Natural Language Processing, National University of Singapore**, 2020-2021
+Teaching Assistant, [CS4248 Natural Language Processing](https://knmnyn.github.io/cs4248-2020/), National University of Singapore, 2020-2021
 
-  [[Website](https://knmnyn.github.io/cs4248-2020/)] 
 
 ## Talks
 
