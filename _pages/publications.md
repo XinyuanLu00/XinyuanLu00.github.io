@@ -34,6 +34,7 @@ Liangming Pan, Xiaobao Wu, **Xinyuan Lu**, Anh Tuan Luu, William Yang Wang, Min-
 **Xinyuan Lu**, Min-Yen Kan   
 [[paper](https://arxiv.org/pdf/2303.05039.pdf)] [[slides](https://speakerdeck.com/wingnus/improving-recommendation-systems-with-user-personality-inferred-from-product-reviews)]
       
+### 2019
 **Learning to Generate Questions with Adaptive Copying Neural Networks**  `SRW@SIGMOD, 2019`     
 **Xinyuan Lu**, Yuhong Guo   
 [[paper](https://arxiv.org/abs/1909.08187)]
