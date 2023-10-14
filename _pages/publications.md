@@ -13,8 +13,7 @@ See my [Google Scholar Profile](https://scholar.google.com/citations?user=-NtdX2
 ---
 
 ### 2023
-**1. SCITAB: A Challenging Benchmark for Compositional Reasoning and Claim Verification on Scientific Tables** 
-`EMNLP main conference, 2023`
+**1. SCITAB: A Challenging Benchmark for Compositional Reasoning and Claim Verification on Scientific Tables** `EMNLP main, 2023`
 **Xinyuan Lu**, Liangming Pan, Qian Liu, Preslav Nakov, Min-Yen Kan   
 [[paper](https://arxiv.org/pdf/2305.13186.pdf)] [[data](https://github.com/XinyuanLu00/SciTab)]
 
