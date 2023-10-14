@@ -29,6 +29,14 @@ EMNLP'22 Volunteer (On-site)   `Abu Dhabi, UAE`
 RecSys'22 Volunteer (Online)   `Seattle, USA`
 
 
+### Teaching Activities
+
+1. Teaching Assistant, CS4248 Natural Language Processing, National University of Singapore, 2020-2021
+
+  [[Website](https://knmnyn.github.io/cs4248-2020/)]
+
+2. Teaching Assistant, COMP3804, Introduction to Algorithms, Carleton University, 2018 
+
 ## Talks
 
 "Psychology-based Recommendation Systems", March 2022
