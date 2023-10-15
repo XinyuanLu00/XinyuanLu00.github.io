@@ -18,15 +18,18 @@ See my [Google Scholar Profile](https://scholar.google.com/citations?user=-NtdX2
 **Xinyuan Lu**, Liangming Pan, Qian Liu, Preslav Nakov, Min-Yen Kan   
 [[paper](https://arxiv.org/pdf/2305.13186.pdf)] [[data](https://github.com/XinyuanLu00/SciTab)]
 
+
 **2. QACHECK: A Demonstration System for Question-Guided Multi-Hop Fact-Checking** *EMNLP System Demonstration Track, 2023*
 
 Liangming Pan, **Xinyuan Lu**, Min-Yen Kan, Preslav Nakov
 [[paper](https://arxiv.org/pdf/2310.07609.pdf)] [[code](https://github.com/XinyuanLu00/QACheck)]
 
+
 **3. Fact-Checking Complex Claims with Program-Guided Reasoning** *ACL, 2023*    
 
 Liangming Pan, Xiaobao Wu, **Xinyuan Lu**, Anh Tuan Luu, William Yang Wang, Min-Yen Kan, Preslav Nakov   
 [[paper](https://arxiv.org/pdf/2305.12744.pdf)] [[code](https://github.com/teacherpeterpan/ProgramFC)]
+
    
 **4. Improving Recommendation Systems with User Personality Inferred from Product Reviews**  *IRS Workshop@WSDM, 2023*     
 
