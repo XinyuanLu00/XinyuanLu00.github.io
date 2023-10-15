@@ -14,7 +14,7 @@ author_profile: true
 
 Advisor: [Prof. Min-Yen Kan](https://www.comp.nus.edu.sg/~kanmy/) 
 
-**Master of Computer Science, specialization in Data Science**, Carleton University, Canada `2016.9 - 2019.10`
+**Master of Computer Science, specialization in Data Science**, [Carleton University](https://carleton.ca/), Canada `2016.9 - 2019.10`
 
 Advisor: [Prof. Yuhong Guo](https://people.scs.carleton.ca/~yuhongguo/) 
 

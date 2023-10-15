@@ -29,7 +29,7 @@ EMNLP'22 Volunteer  `Abu Dhabi, UAE`
 RecSys'22 Volunteer  `Seattle, USA`
 
 
-### Teaching Activities
+## Teaching Activities
 
 Teaching Assistant, [CS4248 Natural Language Processing](https://knmnyn.github.io/cs4248-2020/), National University of Singapore, 2020-2021
 
