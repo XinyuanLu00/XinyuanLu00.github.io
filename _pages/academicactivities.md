@@ -13,14 +13,14 @@ author_profile: true
 
 ## Academic Services
 
-Invited Reviewer for EMNLP'23
+Invited Reviewer for EMNLP'23, LREC-COLING'24
 
 Invited Reviewer for EACL'23 Student Research Workshop
 
 
 ## Volunteer Experiences
 
-RecSys'23 Volunteer   `Singapore`
+EMNLP'23 Volunteer   `Singapore`
 
 ACL'23 Volunteer   `Toronto, Canada`
 
