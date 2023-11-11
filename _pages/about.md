@@ -23,13 +23,9 @@ My email is `luxinyuan [at] u.nus.edu`
 
 [2023.11.01] I'm honored to be a student volunteer at [SSNLP'23](https://wing-nus.github.io/ssnlp-2023/) in Singapore! Welcome to Singapore!
 
-[2023.10] I'm honored to be a reviewer at [LREC-COLING'24](https://lrec-coling-2024.org/)!
-
 [2023.10.08] Our [SCITAB](https://arxiv.org/abs/2305.13186) paper is accepted at [EMNLP'23](https://2023.emnlp.org/) main conference as a long paper!
 
 [2023.10.01] One paper on [QACheck: a multi-hop fact-checking system](https://arxiv.org/abs/2310.07609) is accepted at [EMNLP'23](https://2023.emnlp.org/) System Demonstration Track!
-
-[2023.08] I'm honored to be a reviewer at [EMNLP'23](https://2023.emnlp.org/)! 
 
 [2023.07.09] I'm attending [ACL'23](https://2023.aclweb.org/) in Toronto, Canada, and I'm honored to be a student volunteer!
 
@@ -41,6 +37,3 @@ My email is `luxinyuan [at] u.nus.edu`
 
 [2023.01.31] One paper on personality-based RecSys is accepted at [IRS@WSDM](https://irs-wsdm.github.io/) workshop!
 
-[2022.12.07] I'm honored to be a student volunteer at [EMNLP'22](https://2022.emnlp.org/) in Abu Dhabi, UAE!
-
-[2022.09.05] I'm honored to be an online student volunteer at [RecSys'22](https://recsys.acm.org/recsys22/)!
