@@ -22,7 +22,8 @@ See my [Google Scholar Profile](https://scholar.google.com/citations?user=-NtdX2
 **2. QACHECK: A Demonstration System for Question-Guided Multi-Hop Fact-Checking** `EMNLP System Demonstration Track 2023`
 
 Liangming Pan, **Xinyuan Lu**, Min-Yen Kan, Preslav Nakov
-[[paper](https://arxiv.org/pdf/2310.07609.pdf)] [[code](https://github.com/XinyuanLu00/QACheck)] [[poster](https://drive.google.com/file/d/1PN7SmApapkmttMqoBW2YPuOi9IxkM4G5/view?usp=sharing)]
+
+[[paper](https://arxiv.org/pdf/2310.07609.pdf)] [[code](https://github.com/XinyuanLu00/QACheck)] [[video](https://www.youtube.com/watch?v=ju8kxSldM64)][[poster](https://drive.google.com/file/d/1PN7SmApapkmttMqoBW2YPuOi9IxkM4G5/view?usp=sharing)]
 
 
 **3. Fact-Checking Complex Claims with Program-Guided Reasoning** `ACL 2023`    
