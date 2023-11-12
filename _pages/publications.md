@@ -16,7 +16,7 @@ See my [Google Scholar Profile](https://scholar.google.com/citations?user=-NtdX2
 **1. SCITAB: A Challenging Benchmark for Compositional Reasoning and Claim Verification on Scientific Tables** `EMNLP 2023`
 
 **Xinyuan Lu**, Liangming Pan, Qian Liu, Preslav Nakov, Min-Yen Kan   
-[[paper](https://arxiv.org/pdf/2305.13186.pdf)] [[data](https://github.com/XinyuanLu00/SciTab)] [[slides](https://drive.google.com/file/d/18J8zpQ7W19D6h3vfTPUjwIHSHJJHLMnA/view?usp=sharing)] [[poster](https://drive.google.com/file/d/1PJxwvG9ejLVgMAsyIITPearbrDiXxE5Z/view?usp=sharing)]
+[[paper](https://arxiv.org/pdf/2305.13186.pdf)] [[data](https://github.com/XinyuanLu00/SciTab)] [[slides](https://drive.google.com/file/d/1B2c2UVfCPDi_bI_RhAkJp88S1mNhHnOB/view?usp=sharing)] [[poster](https://drive.google.com/file/d/1PJxwvG9ejLVgMAsyIITPearbrDiXxE5Z/view?usp=sharing)]
 
 
 **2. QACHECK: A Demonstration System for Question-Guided Multi-Hop Fact-Checking** `EMNLP System Demonstration Track 2023`
