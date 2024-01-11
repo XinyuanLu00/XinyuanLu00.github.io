@@ -20,6 +20,8 @@ I've also been interested in the psychological aspects of Recommendation Systems
 My email is `luxinyuan [at] u.nus.edu`
 
 ## News
+[2024.01.10] I'm honored to receive the [Research Achievement Award](https://www.comp.nus.edu.sg/programmes/pg/awards/deans/) of the School of Computing!
+
 [2023.12.06] I'm attending [EMNLP'23](https://2023.emnlp.org/) in Singapore! Welcome to Singapore!
 
 [2023.11.01] I'm honored to be a student volunteer at [SSNLP'23](https://wing-nus.github.io/ssnlp-2023/) in Singapore! 
