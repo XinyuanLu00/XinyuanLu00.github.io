@@ -22,7 +22,7 @@ My email is `luxinyuan [at] u.nus.edu`
 ## News
 [2024.01.10] I'm honored to present our [QACheck demo](https://arxiv.org/abs/2310.07609) on behalf of the Centre for [Trusted Internet and Community (CTIC)](https://ctic.nus.edu.sg/) to [Ministry of Education (MOE)](https://www.moe.gov.sg/) Academic Research Council!
 
-[2024.01.10] I'm honored to receive the [Research Achievement Award](https://www.comp.nus.edu.sg/programmes/pg/awards/deans/) of the School of Computing!
+[2024.01.10] I'm honored to receive the [Research Achievement Award](https://drive.google.com/file/d/1jdvyH3PIDz3TubIV3HToP3i62GRhh_eH/view?usp=sharing) of the School of Computing!
 
 [2023.12.06] I'm attending [EMNLP'23](https://2023.emnlp.org/) in Singapore! Welcome to Singapore!
 
