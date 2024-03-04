@@ -13,9 +13,7 @@ author_profile: true
 
 ## Academic Services
 
-Invited Reviewer for EMNLP'23, LREC-COLING'24
-
-Invited Reviewer for EACL'23 Student Research Workshop
+Invited Reviewer for [ARR](https://aclrollingreview.org/), [LREC-COLING'24](https://lrec-coling-2024.org/), [EMNLP'23](https://2023.emnlp.org/), [EACL'23 Student Research Workshop](https://sites.google.com/view/eacl2023srw/home)
 
 
 ## Volunteer Experiences
