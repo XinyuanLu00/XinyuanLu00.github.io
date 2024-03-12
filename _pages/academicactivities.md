@@ -13,7 +13,7 @@ author_profile: true
 
 ## Academic Services
 
-Invited Reviewer for [ARR](https://aclrollingreview.org/), [SIGIR'24](https://sigir-2024.github.io/), [LREC-COLING'24](https://lrec-coling-2024.org/), [EMNLP'23](https://2023.emnlp.org/), [4th SDP Workshop@ACL'24](https://sdproc.org/2024/index.html), [EACL'23 SRW](https://sites.google.com/view/eacl2023srw/home)
+Invited Reviewer for [ARR](https://aclrollingreview.org/), [SIGIR'24](https://sigir-2024.github.io/), [COLING'24](https://lrec-coling-2024.org/), [EMNLP'23](https://2023.emnlp.org/), [4th SDP Workshop@ACL'24](https://sdproc.org/2024/index.html), [EACL'23 SRW](https://sites.google.com/view/eacl2023srw/home)
 
 
 ## Volunteer Experiences
