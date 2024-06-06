@@ -15,6 +15,9 @@ author_profile: true
 
 Invited Reviewer for [ARR](https://aclrollingreview.org/), [SIGIR'24](https://sigir-2024.github.io/), [COLING'24](https://lrec-coling-2024.org/), [EMNLP'23](https://2023.emnlp.org/), [4th SDP Workshop@ACL'24](https://sdproc.org/2024/index.html), [EACL'23 SRW](https://sites.google.com/view/eacl2023srw/home)
 
+## Awards
+
+[2024.01] [Research Achievement Award](https://drive.google.com/file/d/1jdvyH3PIDz3TubIV3HToP3i62GRhh_eH/view?usp=sharing) at NUS
 
 ## Volunteer Experiences
 
