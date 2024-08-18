@@ -20,21 +20,19 @@ I've also been interested in the psychological aspects of Recommendation Systems
 My email is `luxinyuan [at] u.nus.edu`
 
 ## News
+[2024.8.15] I'm attending [ACL'24](https://2024.aclweb.org/) in Bangkok, Thailand!
+
 [2024.01.10] I'm honored to present our [QACheck demo](https://arxiv.org/abs/2310.07609) on behalf of the Centre for [Trusted Internet and Community (CTIC)](https://ctic.nus.edu.sg/) to [Ministry of Education (MOE)](https://www.moe.gov.sg/) Academic Research Council!
 
 [2024.01.10] I'm honored to receive the [Research Achievement Award](https://drive.google.com/file/d/1jdvyH3PIDz3TubIV3HToP3i62GRhh_eH/view?usp=sharing) of the School of Computing!
 
 [2023.12.06] I'm attending [EMNLP'23](https://2023.emnlp.org/) in Singapore! Welcome to Singapore!
 
-[2023.11.01] I'm honored to be a student volunteer at [SSNLP'23](https://wing-nus.github.io/ssnlp-2023/) in Singapore! 
-
 [2023.10.08] Our [SCITAB](https://arxiv.org/abs/2305.13186) paper is accepted at [EMNLP'23](https://2023.emnlp.org/) main conference as a long paper!
 
 [2023.10.01] One paper on [QACheck: a multi-hop fact-checking system](https://arxiv.org/abs/2310.07609) is accepted at [EMNLP'23](https://2023.emnlp.org/) System Demonstration Track!
 
-[2023.07.09] I'm attending [ACL'23](https://2023.aclweb.org/) in Toronto, Canada, and I'm honored to be a student volunteer!
-
-[2023.05.22] One paper on [SCITAB:scientific table fact-checking benchmark](https://arxiv.org/abs/2305.13186) is now available on arXiv!
+[2023.07.09] I'm attending [ACL'23](https://2023.aclweb.org/) in Toronto, Canada!
 
 [2023.05.02] One paper on [fact-checking complex claims](https://aclanthology.org/2023.acl-long.386.pdf) is accepted at [ACL'23](https://2023.aclweb.org/)!
 
