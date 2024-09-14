@@ -12,6 +12,12 @@ See my [Google Scholar Profile](https://scholar.google.com/citations?user=-NtdX2
 
 ---
 
+### 2024
+**1. MMLongBench-Doc: Benchmarking Long-context Document Understanding with Visualizations** `arXiv`
+
+Yubo Ma, Yuhang Zang, Liangyu Chen, Meiqi Chen, Yizhu Jiao, Xinze Li, **Xinyuan Lu**, Ziyu Liu, Yan Ma, Xiaoyi Dong, Pan Zhang, Liangming Pan, Yu-Gang Jiang, Jiaqi Wang, Yixin Cao, Aixin Sun   
+[[paper](https://arxiv.org/abs/2407.01523)] [[data](https://mayubo2333.github.io/MMLongBench-Doc/)]
+
 ### 2023
 **1. SCITAB: A Challenging Benchmark for Compositional Reasoning and Claim Verification on Scientific Tables** `EMNLP 2023`
 
