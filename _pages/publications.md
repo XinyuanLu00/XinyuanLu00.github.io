@@ -18,7 +18,7 @@ See my [Google Scholar Profile](https://scholar.google.com/citations?user=-NtdX2
 **Xinyuan Lu**, Liangming Pan, Yubo Ma, Preslav Nakov, Min-Yen Kan   
 [[paper](https://arxiv.org/abs/2409.11724)] [[code](https://github.com/XinyuanLu00/TART)]
 
-**2. MMLongBench-Doc: Benchmarking Long-context Document Understanding with Visualizations** `arXiv`
+**2. MMLongBench-Doc: Benchmarking Long-context Document Understanding with Visualizations** `NeurIPS Datasets and Benchmarks Track 2024` **(Spotlight)**
 
 Yubo Ma, Yuhang Zang, Liangyu Chen, Meiqi Chen, Yizhu Jiao, Xinze Li, **Xinyuan Lu**, Ziyu Liu, Yan Ma, Xiaoyi Dong, Pan Zhang, Liangming Pan, Yu-Gang Jiang, Jiaqi Wang, Yixin Cao, Aixin Sun   
 [[paper](https://arxiv.org/abs/2407.01523)] [[data](https://mayubo2333.github.io/MMLongBench-Doc/)]
