@@ -16,7 +16,7 @@ My primary research interest lies in Natural Language Processing, with a specifi
 
 I've also been interested in the psychological aspects of Recommendation Systems, especially analyzing the effects of personality in the current recommendation systems. 
 
-**I'm looking for academic positions (Postdoctoral Scholar/Research Fellow/Research Assistant) now. Here is my [CV](https://drive.google.com/file/d/1ECZneuYgm_HnYA-pI9CszMXF4esi7AjR/view?usp=sharing).** Please email me (luxinyuan@u.nus.edu) if you have available openings!
+**I'm looking for research positions (Postdoctoral Scholar/Research Fellow/Research Assistant) now. Here is my [CV](https://drive.google.com/file/d/1ULV1XTk8ka1Ur114yGeoWCMtJ8KLn5sz/view?usp=sharing).** Please email me (luxinyuan@u.nus.edu) if you have available openings!
 
 ## News
 [2024.8.15] I'm attending [ACL'24](https://2024.aclweb.org/) in Bangkok, Thailand!
