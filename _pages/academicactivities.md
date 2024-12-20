@@ -17,6 +17,8 @@ Invited Reviewer for [ARR](https://aclrollingreview.org/), [SIGIR'24](https://si
 
 ## Awards
 
+[2024.12] [Best Paper Runner-Up](https://drive.google.com/file/d/1uIkFtm2FxBizuB1ec8VoQWTrCQx7J9zR/view?usp=sharing) at the [3rd TRL Workshop](https://table-representation-learning.github.io/)@NeurIPS 2024 
+
 [2024.01] [Research Achievement Award](https://drive.google.com/file/d/1jdvyH3PIDz3TubIV3HToP3i62GRhh_eH/view?usp=sharing) at NUS
 
 ## Volunteer Experiences

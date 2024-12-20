@@ -19,6 +19,9 @@ I've also been interested in the psychological aspects of Recommendation Systems
 **I'm looking for research positions (Postdoctoral Scholar/Research Fellow) now.** Please email me (luxinyuan@u.nus.edu) if you have available openings!
 
 ## News
+
+[2024.12.16] I'm excited to share that our [TART](https://arxiv.org/abs/2409.11724) paper has won the [Best Paper Runner-Up](https://drive.google.com/file/d/1uIkFtm2FxBizuB1ec8VoQWTrCQx7J9zR/view?usp=sharing) Award at the [3rd Table Representation Learning Workshop](https://table-representation-learning.github.io/) at NeurIPS 2024!
+
 [2024.09.26] One collaboration paper on [MMLongdoc QA](https://arxiv.org/abs/2407.01523) is accepted at NeurIPS'24 D&B Track Spotlight! Congrats to the leading author!
 
 [2024.8.15] I'm attending [ACL'24](https://2024.aclweb.org/) in Bangkok, Thailand.
