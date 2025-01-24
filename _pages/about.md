@@ -20,7 +20,7 @@ I've also been interested in the psychological aspects of Recommendation Systems
 
 ## News
 
-[2025.01.23] Our [TART](https://arxiv.org/abs/2409.11724) paper (first-author) is accepted at NAACL 2025!
+[2025.01.23] Our [TART](https://arxiv.org/abs/2409.11724) paper (first-author) is accepted at [NAACL'25](https://2025.naacl.org/)!
 
 [2024.12.06] I'm excited to share that our [TART](https://arxiv.org/abs/2409.11724) paper (first-author) has won the [Best Paper Runner-Up](https://drive.google.com/file/d/1uIkFtm2FxBizuB1ec8VoQWTrCQx7J9zR/view?usp=sharing) Award at the [3rd Table Representation Learning Workshop](https://table-representation-learning.github.io/NeurIPS2024/) at NeurIPS 2024!
 
