@@ -16,15 +16,15 @@ My primary research interest lies in Natural Language Processing, with a specifi
 
 I've also been interested in the psychological aspects of Recommendation Systems, especially analyzing the effects of personality in the current recommendation systems. 
 
-**I'm looking for research positions (Postdoctoral Scholar/Research Fellow) now.** Please email me (luxinyuan@u.nus.edu) if you have available openings!
+**I'm looking for academic research positions (Postdoctoral Scholar/Research Fellow) now.** Please email me (luxinyuan@u.nus.edu) if you have available openings!
 
 ## News
 
-[2024.12.16] I'm excited to share that our [TART](https://arxiv.org/abs/2409.11724) paper has won the [Best Paper Runner-Up](https://drive.google.com/file/d/1uIkFtm2FxBizuB1ec8VoQWTrCQx7J9zR/view?usp=sharing) Award at the [3rd Table Representation Learning Workshop](https://table-representation-learning.github.io/) at NeurIPS 2024!
+[2025.01.23] Our [TART](https://arxiv.org/abs/2409.11724) paper (first-author) is accepted at NAACL 2025!
 
-[2024.09.26] One collaboration paper on [MMLongdoc QA](https://arxiv.org/abs/2407.01523) is accepted at NeurIPS'24 D&B Track Spotlight! Congrats to the leading author!
+[2024.09.26] One paper on [MMLongdoc QA](https://arxiv.org/abs/2407.01523) is accepted at NeurIPS'24 D&B Track Spotlight!
 
-[2024.8.15] I'm attending [ACL'24](https://2024.aclweb.org/) in Bangkok, Thailand.
+[2024.08.15] I'm attending [ACL'24](https://2024.aclweb.org/) in Bangkok, Thailand.
 
 [2024.01.10] I'm honored to present our [QACheck demo](https://arxiv.org/abs/2310.07609) on behalf of the Centre for [Trusted Internet and Community (CTIC)](https://ctic.nus.edu.sg/) to [Ministry of Education (MOE)](https://www.moe.gov.sg/) Academic Research Council.
 
@@ -32,7 +32,7 @@ I've also been interested in the psychological aspects of Recommendation Systems
 
 [2023.12.06] I'm attending [EMNLP'23](https://2023.emnlp.org/) in Singapore! Welcome to Singapore!
 
-[2023.10.08] Our [SCITAB](https://arxiv.org/abs/2305.13186) paper is accepted at [EMNLP'23](https://2023.emnlp.org/) main conference as a long paper!
+[2023.10.08] Our [SCITAB](https://arxiv.org/abs/2305.13186) paper (first-author) is accepted at [EMNLP'23](https://2023.emnlp.org/) main conference as a long paper!
 
 [2023.10.01] One paper on [QACheck: a multi-hop fact-checking system](https://arxiv.org/abs/2310.07609) is accepted at [EMNLP'23](https://2023.emnlp.org/) System Demonstration Track!
 

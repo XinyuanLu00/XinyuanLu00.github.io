@@ -13,7 +13,8 @@ See my [Google Scholar Profile](https://scholar.google.com/citations?user=-NtdX2
 ---
 
 ### 2024
-**1. TART: An Open-Source Tool-Augmented Framework for Explainable Table-based Reasoning** `TRL Workshop@NeurIPS'24` (Oral Presentation)
+**1. TART: An Open-Source Tool-Augmented Framework for Explainable Table-based Reasoning** 
+`TRL Workshop@NeurIPS'24` (Best Paper Runner-Up) & `NAACL'25 Findings`
 
 **Xinyuan Lu**, Liangming Pan, Yubo Ma, Preslav Nakov, Min-Yen Kan   
 [[paper](https://arxiv.org/abs/2409.11724)] [[code](https://github.com/XinyuanLu00/TART)] [[poster](https://drive.google.com/file/d/1QrLCPdd0qxljgXnssCI8bsungjYXhCu8/view?usp=sharing)] [[video teaser](https://www.youtube.com/watch?v=rKRVLMXz3hE&list=LL&index=2)]
