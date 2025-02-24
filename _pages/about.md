@@ -12,7 +12,7 @@ redirect_from:
 
 I am Xinyuan Lu (陆欣圆), a final year Ph.D. student in [WING](https://wing.comp.nus.edu.sg/) at [National University of Singapore](https://www.nus.edu.sg/). I'm also affiliated with the [Integrative Sciences and Engineering Program (ISEP)](https://isep.nus.edu.sg/about/) at NUS Graduate School. I'm fortunate to be advised by [Prof. Min-Yen Kan](https://www.comp.nus.edu.sg/~kanmy/). I also work closely with [Prof. Liangming Pan](https://scholar.google.com.sg/citations?user=JcjjOTUAAAAJ&hl=en) from University of Arizona and [Prof. Preslav Nakov](https://scholar.google.com/citations?user=DfXsKZ4AAAAJ&hl=en) from MBZUAI. 
 
-My primary research interest lies in Natural Language Processing, with a specific focus on **Scientific Fact-Checking** and **Table Reasoning**. A challenging aspect of this field is the verification of real-world **research claims** found in scientific papers, particularly when they involve tables of experimental results. This verification process often entails multi-step table reasoning and requires providing comprehensive explanations. 
+My primary research interest lies in Natural Language Processing, with a specific focus on **Reasonings of Large Language Models** and **Fact-Checking**.  
 
 I've also been interested in the psychological aspects of Recommendation Systems, especially analyzing the effects of personality in the current recommendation systems. 
 

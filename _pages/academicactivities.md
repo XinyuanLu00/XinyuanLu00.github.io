@@ -13,7 +13,17 @@ author_profile: true
 
 ## Academic Services
 
-Invited Reviewer for [ARR](https://aclrollingreview.org/), [SIGIR'24](https://sigir-2024.github.io/), [COLING'24](https://lrec-coling-2024.org/), [EMNLP'23](https://2023.emnlp.org/), [3rd Table Representation Learning Workshop@Neurips'24](https://table-representation-learning.github.io/), [4th SDP Workshop@ACL'24](https://sdproc.org/2024/index.html), [EACL'23 SRW](https://sites.google.com/view/eacl2023srw/home)
+PC members for 
+- ACL 2023-2025
+- EMNLP 2023-2025
+- COLING 2024-2025
+- SIGIR 2024
+- ARR 2023-present
+- [Reasoning and Planning for LLMs Workshop@ICLR 2025](https://workshop-llm-reasoning-planning.github.io/)
+- [1st Workshop on Open Science for Foundation Models@ICLR 2025](https://open-foundation-model.github.io/)
+- [3rd Table Representation Learning Workshop@NeurIPS 2024](https://table-representation-learning.github.io/)
+- [4th SDP Workshop@ACL 2024](https://sdproc.org/2024/index.html)
+- [ SRW@EACL 2023](https://sites.google.com/view/eacl2023srw/home)
 
 ## Awards
 
