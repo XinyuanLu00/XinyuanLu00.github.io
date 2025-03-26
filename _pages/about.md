@@ -20,6 +20,8 @@ I've also been interested in the psychological aspects of Recommendation Systems
 
 ## News
 
+[2025.03.20] We're honored to present our [Multilingual QACheck demo](https://drive.google.com/file/d/17DfRjtk1RKND0cXVskIic8YJgAY7IRt-/view?usp=sharing) on behalf of the Centre for [Trusted Internet and Community (CTIC)](https://ctic.nus.edu.sg/) to NUS President [Prof. Tan Eng Chye](https://drive.google.com/file/d/1wSDdBIP-H2tNb6HZnZgMjEFT2vif8jXo/view?usp=sharing).
+
 [2025.01.23] Our [TART](https://arxiv.org/abs/2409.11724) paper (first-author) is accepted at [NAACL'25](https://2025.naacl.org/)!
 
 [2024.12.06] I'm excited to share that our [TART](https://arxiv.org/abs/2409.11724) paper (first-author) has won the [Best Paper Runner-Up](https://drive.google.com/file/d/1uIkFtm2FxBizuB1ec8VoQWTrCQx7J9zR/view?usp=sharing) Award at the [3rd Table Representation Learning Workshop](https://table-representation-learning.github.io/NeurIPS2024/) at NeurIPS 2024!
