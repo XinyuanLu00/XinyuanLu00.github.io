@@ -27,30 +27,30 @@ PC members for
 
 ## Awards
 
-[2024.12] [Best Paper Runner-Up](https://drive.google.com/file/d/1uIkFtm2FxBizuB1ec8VoQWTrCQx7J9zR/view?usp=sharing) at the [3rd TRL Workshop](https://table-representation-learning.github.io/)@NeurIPS 2024 
+- [2024.12] [Best Paper Runner-Up](https://drive.google.com/file/d/1uIkFtm2FxBizuB1ec8VoQWTrCQx7J9zR/view?usp=sharing) at the [3rd TRL Workshop](https://table-representation-learning.github.io/)@NeurIPS 2024 
 
-[2024.01] [Research Achievement Award](https://drive.google.com/file/d/1jdvyH3PIDz3TubIV3HToP3i62GRhh_eH/view?usp=sharing) at NUS
+- [2024.01] [Research Achievement Award](https://drive.google.com/file/d/1jdvyH3PIDz3TubIV3HToP3i62GRhh_eH/view?usp=sharing) at NUS
 
 ## Organizing Committees
 
-[iGyro Symposium](https://igyro-nus.github.io/#organization-committee), April 2025 `Singapore`
+- [iGyro Symposium](https://igyro-nus.github.io/#organization-committee), April 2025 `Singapore`
 
-[CS6101 2310 - Large Language Model](https://wing.comp.nus.edu.sg/event/cs6101-llm/), August 2023 `Singapore`
+- [CS6101 2310 - Large Language Model](https://wing.comp.nus.edu.sg/event/cs6101-llm/), August 2023 `Singapore`
 
-[CS6101 2020 - Conversational Recommendation Systems](https://wing.comp.nus.edu.sg/event/cs6101-crs/), January 2020 `Singapore`
+- [CS6101 2020 - Conversational Recommendation Systems](https://wing.comp.nus.edu.sg/event/cs6101-crs/), January 2020 `Singapore`
 
 
 ## Volunteer Experiences
 
-ACL'24 Volunteer   `Bangkok, Thailand`
+- ACL'24 Volunteer   `Bangkok, Thailand`
 
-EMNLP'23 Volunteer   `Singapore`
+- EMNLP'23 Volunteer   `Singapore`
 
-ACL'23 Volunteer   `Toronto, Canada`
+- ACL'23 Volunteer   `Toronto, Canada`
 
-EMNLP'22 Volunteer  `Abu Dhabi, UAE`
+- EMNLP'22 Volunteer  `Abu Dhabi, UAE`
 
-RecSys'22 Volunteer  `Seattle, USA`
+- RecSys'22 Volunteer  `Seattle, USA`
 
 
 ## Teaching Activities
@@ -62,22 +62,22 @@ Teaching Assistant, [CS4248 Natural Language Processing](https://knmnyn.github.i
 
 ### 2025
 
-["TART: An Open-Source Tool-Augmented Framework for Explainable Table-based Reasoning"](https://arxiv.org/abs/2409.11724), [NAACL 2025](https://2025.naacl.org/)  `Albuquerque, US`
-
-["QACheck: A Demonstration System for Question-Guided Multi-Hop Fact-Checking"](https://aclanthology.org/2023.emnlp-demo.23/), [EMNLP 2023](https://2023.emnlp.org/)  `Singapore`
-
-["SCITAB: A Challenging Benchmark for Compositional Reasoning and Claim Verification on Scientific Tables"](https://aclanthology.org/2023.emnlp-main.483/) , [EMNLP 2023](https://2023.emnlp.org/)  `Singapore`
+- ["TART: An Open-Source Tool-Augmented Framework for Explainable Table-based Reasoning"](https://arxiv.org/abs/2409.11724), [NAACL 2025](https://2025.naacl.org/)  `Albuquerque, US`
 
 ### 2024
 
-["TART: An Open-Source Tool-Augmented Framework for Explainable Table-based Reasoning"](https://arxiv.org/abs/2409.11724), [NeurIPS 3rd Table Representation Learning Workshop](https://table-representation-learning.github.io/NeurIPS2024/). `Vancouver, Canada`
+- ["TART: An Open-Source Tool-Augmented Framework for Explainable Table-based Reasoning"](https://arxiv.org/abs/2409.11724), [NeurIPS 3rd Table Representation Learning Workshop](https://table-representation-learning.github.io/NeurIPS2024/). `Vancouver, Canada`
 
 ### 2023
 
-["Fact-Checking Complex Claims with Program-Guided Reasoning"](https://aclanthology.org/2023.acl-long.386/), [ACL 2023](https://2023.aclweb.org/) `Toronto, Canada`
+- ["QACheck: A Demonstration System for Question-Guided Multi-Hop Fact-Checking"](https://aclanthology.org/2023.emnlp-demo.23/), [EMNLP 2023](https://2023.emnlp.org/).  `Singapore`
 
-["Improving Recommendation Systems with User Personality Inferred from Product Reviews"](https://arxiv.org/abs/2303.05039), [WSDM 2023](https://www.wsdm-conference.org/2023/)  `Singapore`
+- ["SCITAB: A Challenging Benchmark for Compositional Reasoning and Claim Verification on Scientific Tables"](https://aclanthology.org/2023.emnlp-main.483/) , [EMNLP 2023](https://2023.emnlp.org/).  `Singapore`
 
-"Psychology-based Recommendation Systems", [WING NUS Recommendation Seminar](https://wing-nus.github.io/ir-seminar/), `Singapore`
+- ["Fact-Checking Complex Claims with Program-Guided Reasoning"](https://aclanthology.org/2023.acl-long.386/), [ACL 2023](https://2023.aclweb.org/). `Toronto, Canada`
+
+- ["Improving Recommendation Systems with User Personality Inferred from Product Reviews"](https://arxiv.org/abs/2303.05039), [WSDM 2023](https://www.wsdm-conference.org/2023/).  `Singapore`
+
+- "Psychology-based Recommendation Systems", [WING NUS Recommendation Seminar](https://wing-nus.github.io/ir-seminar/), `Singapore`
 
 
