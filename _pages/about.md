@@ -14,11 +14,11 @@ I am Xinyuan Lu (陆欣圆), a final year Ph.D. student in [WING](https://wing.c
 
 My primary research interest lies in Natural Language Processing, with a specific focus on **Reasonings of Large Language Models** and **Fact-Checking**.  
 
-I've also been interested in the psychological aspects of Recommendation Systems, especially analyzing the effects of personality in the current recommendation systems. 
-
 **I'm looking for academic research positions (Postdoctoral Scholar/Research Fellow) now.** Please email me (luxinyuan@u.nus.edu) if you have available openings!
 
 ## News
+
+[2025.05.15] One paper on [scientific table and text QA](https://arxiv.org/pdf/2412.11757) is accepted at [ACL'25](https://2025.aclweb.org/)!
 
 [2025.03.20] We're honored to present our [Multilingual QACheck demo](https://drive.google.com/file/d/17DfRjtk1RKND0cXVskIic8YJgAY7IRt-/view?usp=sharing) on behalf of the Centre for [Trusted Internet and Community (CTIC)](https://ctic.nus.edu.sg/) to NUS President [Prof. Tan Eng Chye](https://drive.google.com/file/d/1wSDdBIP-H2tNb6HZnZgMjEFT2vif8jXo/view?usp=sharing).
 
