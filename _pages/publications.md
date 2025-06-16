@@ -16,6 +16,7 @@ See my [Google Scholar Profile](https://scholar.google.com/citations?user=-NtdX2
 `ACL'25 Findings`
 
 Xuanliang Zhang, Dingzirui Wang, Baoxin Wang, Longxu Dou, **Xinyuan Lu**, Keyan Xu, Dayong Wu, Qingfu Zhu, Wanxiang Che
+
 [[paper]](https://arxiv.org/pdf/2412.11757)
 
 **2. TART: An Open-Source Tool-Augmented Framework for Explainable Table-based Reasoning** 
