@@ -19,11 +19,12 @@ PC members for
 - COLING 2024-2025
 - SIGIR 2024
 - ARR 2023-present
+- [4th Table Representation Learning Workshop@ACL 2025](https://table-representation-learning.github.io/ACL2025/)
 - [Reasoning and Planning for LLMs Workshop@ICLR 2025](https://workshop-llm-reasoning-planning.github.io/)
 - [1st Workshop on Open Science for Foundation Models@ICLR 2025](https://open-foundation-model.github.io/)
-- [3rd Table Representation Learning Workshop@NeurIPS 2024](https://table-representation-learning.github.io/)
+- [3rd Table Representation Learning Workshop@NeurIPS 2024](https://table-representation-learning.github.io/NeurIPS2024/)
 - [4th SDP Workshop@ACL 2024](https://sdproc.org/2024/index.html)
-- [ SRW@EACL 2023](https://sites.google.com/view/eacl2023srw/home)
+- [SRW@EACL 2023](https://sites.google.com/view/eacl2023srw/home)
 
 ## Awards
 
