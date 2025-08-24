@@ -18,7 +18,7 @@ My primary research interest lies in Natural Language Processing, with a specifi
 
 ## News
 
-[2025.08.14] I am delighted to share that I have successfully defended my Ph.D. thesis “Fact-Checking Complex Claims using Large Language Models”! 🎉 Feel free to check out my [slides](https://drive.google.com/file/d/1AQT_x3eD6kXYdb1KwgcD3NlDq7prOmMe/view?usp=sharing) and the [group news](https://wing.comp.nus.edu.sg/post/25-08-14-xinyuan-defense/) for more details.
+[2025.08.14] I am delighted to share that I have successfully defended my Ph.D. thesis, “Fact-Checking Complex Claims with Large Language Models”! 🎉 Feel free to check out my [slides](https://drive.google.com/file/d/1AQT_x3eD6kXYdb1KwgcD3NlDq7prOmMe/view?usp=sharing) and the [group news](https://wing.comp.nus.edu.sg/post/25-08-14-xinyuan-defense/) for more details.
 
 [2025.05.15] One paper on [scientific table and text QA](https://arxiv.org/pdf/2412.11757) is accepted at [ACL'25](https://2025.aclweb.org/)!
 
