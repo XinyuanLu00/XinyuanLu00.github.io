@@ -10,13 +10,15 @@ redirect_from:
 
 ---
 
-I am Xinyuan Lu (陆欣圆), a final year Ph.D. student in [WING](https://wing.comp.nus.edu.sg/) at [National University of Singapore](https://www.nus.edu.sg/). I'm also affiliated with the [Integrative Sciences and Engineering Program (ISEP)](https://isep.nus.edu.sg/about/) at NUS Graduate School. I'm fortunate to be advised by [Prof. Min-Yen Kan](https://www.comp.nus.edu.sg/~kanmy/). I also work closely with [Prof. Liangming Pan](https://scholar.google.com.sg/citations?user=JcjjOTUAAAAJ&hl=en) from University of Arizona and [Prof. Preslav Nakov](https://scholar.google.com/citations?user=DfXsKZ4AAAAJ&hl=en) from MBZUAI. 
+I am Xinyuan Lu (陆欣圆), a newly graduated Ph.D. from [WING](https://wing.comp.nus.edu.sg/) at the [National University of Singapore](https://www.nus.edu.sg/). I'm also affiliated with the [Integrative Sciences and Engineering Program (ISEP)](https://isep.nus.edu.sg/about/) at NUS Graduate School. I'm fortunate to be advised by [Prof. Min-Yen Kan](https://www.comp.nus.edu.sg/~kanmy/). I also work closely with [Prof. Liangming Pan](https://scholar.google.com.sg/citations?user=JcjjOTUAAAAJ&hl=en) from the University of Arizona and [Prof. Preslav Nakov](https://scholar.google.com/citations?user=DfXsKZ4AAAAJ&hl=en) from MBZUAI. 
 
 My primary research interest lies in Natural Language Processing, with a specific focus on **Reasonings of Large Language Models** and **Fact-Checking**.  
 
 **I'm looking for academic research positions (Postdoctoral Scholar/Research Fellow) now.** Please email me (luxinyuan@u.nus.edu) if you have available openings!
 
 ## News
+
+[2025.08.14] I am delighted to share that I have successfully defended my Ph.D. thesis “Fact-Checking Complex Claims using Large Language Models”! 🎉 Feel free to check out my [slides](https://drive.google.com/file/d/1AQT_x3eD6kXYdb1KwgcD3NlDq7prOmMe/view?usp=sharing) and the [group news](https://wing.comp.nus.edu.sg/post/25-08-14-xinyuan-defense/) for more details.
 
 [2025.05.15] One paper on [scientific table and text QA](https://arxiv.org/pdf/2412.11757) is accepted at [ACL'25](https://2025.aclweb.org/)!
 
